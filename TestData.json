@@ -1,0 +1,48 @@
+		{
+		
+		
+			"signUp": { 
+				"FirstNameForSignUp": "Mayuri",
+				"LastNameForSignUp": "Gawandi",
+				"EmailForSignup": "mayurigawandi25@gmail.com",
+				"MobileNumberForSignUp":"12345789",
+				"PasswordForSignup": "123456",
+				"CompanynameForSignup": "TrionNxt Pvt Ltd",
+				"CountryNameForSignup": "India"
+								
+			},
+			 
+			 "login": {
+				"MsgGoesOnMailForgotPassword": "mayurigawandi25@gmail.com",
+				"EnterIdForLogin": "mayurigawandi25@gmail.com",
+				"EnterPasswordForLogin": "123456"
+			},
+		       
+		      
+			"agentConfig": {
+				"Agentname": "Mysql",
+				"AgentDescription": "Mysql_Agent",
+		        "SelectDatabaseType": "MySQL",
+				"SelectDBDriver": "Type1",
+		        "AgentUniqueId": "00155DE93138LAPTOP-KHB0CN1G510-MYSQL"
+			},
+			"applicationConfig": {
+				"Applicationname": "MariaDB-Application",
+				"ApplicationCode": "MDA",
+				"ApplicationUrl": "http://localhost:4200/",
+		        "ApplicationDatabasetype": "1"
+			},
+			
+			"testConnection": {
+				"ConnectionSelectDriverType": "1",
+				"SelectAgent": "4",
+				"UsernameForConnection": "devaten",
+				"PasswordForConnection": "devaten@2022",
+		        "HostUrl": "3.127.18.115",
+				"EnterPort": "3306",     
+				"DatabaseName": "stepu3wv_mobileapi",
+		       "NewConnectionMail": "mayuri.gawandi@trionxt.com",
+				"ConnectionStatus": "true"
+			}
+			
+		}

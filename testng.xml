@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="First Suite" verbose="1">
+ <!--This is comment -->
+	<test name="Suite1" parallel="none">
+		 <classes>
+			<class name="com.trionxt.webdriver.scenarios.LoginTest" >
+			</class>
+		</classes>
+		</test>
+	 <!--This is comment
+ 	 <test name="Suite2" parallel="none">
+		<classes>
+			<class name="com.trionxt.webdriver.scenarios.AgentConfiguratorTest" />
+		</classes>
+	</test> 
+
+	   
+	<test name="Suite3" parallel="none">
+		<classes>
+			<class name="com.trionxt.webdriver.scenarios.ConfigureApplicationTest" />
+		</classes>
+	</test>
+	
+	<test name="Suite4" parallel="none">  
+		<classes>
+			<class name="com.trionxt.webdriver.scenarios.DataSourceManagementTest" />
+		</classes>
+	</test>
+	
+	 -->
+	
+	<test name="Suite6" parallel="none">
+		<classes>
+			<class name="com.trionxt.webdriver.scenarios.AlertTest" />
+		</classes>
+	</test>
+	
+	
+</suite> 
